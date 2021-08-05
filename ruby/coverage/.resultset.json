@@ -1,6 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/mas/Projects/week10/GildedRose-Refactoring-Kata/ruby/lib/items.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
       "/Users/mas/Projects/week10/GildedRose-Refactoring-Kata/ruby/lib/gilded_rose.rb": {
         "lines": [
           1,
@@ -57,23 +74,6 @@
           null,
           null,
           null,
-          null,
-          null
-        ]
-      },
-      "/Users/mas/Projects/week10/GildedRose-Refactoring-Kata/ruby/lib/items.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          0,
           null,
           null
         ]
@@ -183,6 +183,6 @@
         ]
       }
     },
-    "timestamp": 1628156982
+    "timestamp": 1628157443
   }
 }
