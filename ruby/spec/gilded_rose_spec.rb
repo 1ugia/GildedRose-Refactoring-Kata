@@ -1,4 +1,9 @@
-require File.join(File.dirname(__FILE__), 'gilded_rose')
+require 'simplecov'
+SimpleCov.start
+require './lib/gilded_rose.rb'
+require 'items'
+require './spec/spec_helper.rb'
+# require File.join(File.dirname(__FILE__), 'gilded_rose')
 
 describe GildedRose do
 
